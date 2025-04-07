@@ -12,3 +12,6 @@ AI agent架構圖
 HW2:
 
 程式碼抽換 https://github.com/an6222005/data-structure1/blob/main/Drai/Drai.py
+
+![image](https://github.com/user-attachments/assets/2902e186-9876-49db-90cf-2f64dfbff637)
+
