@@ -21,6 +21,10 @@ HW3:
 ![image](https://github.com/user-attachments/assets/65aca777-93ee-47e9-b1fb-af0f61535162)
 
 
+HW4:
+https://github.com/an6222005/data-structure1/blob/main/ai_suggestions.pdf
+
+
 
 
 
