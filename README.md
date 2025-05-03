@@ -25,6 +25,12 @@ HW4:
 https://github.com/an6222005/data-structure1/blob/main/ai_suggestions.pdf
 
 
+HW5:
+
+![image](https://github.com/user-attachments/assets/ad200f4e-7429-4eaf-8306-ee7cfa5b0881)
+
+
+
 
 
 
